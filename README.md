@@ -25,7 +25,7 @@ Bem-vindo(a) ao meu repositório! Sou a Beatriz, mas pode me chamar de **Bia**, 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 
 ---
-![snake animation](https://github.com/biaribeiroexe/biaribeiroexe/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/biaribeiroexe/biaribeiroexe/blob/outputgithub-contribution-grid-snake.svg)
 
 ## 📫 **Como me encontrar**  
   
