@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu repositório! Sou a Beatriz, mas pode me chamar de **Bia**, 
 💡 Acredito no poder da tecnologia para transformar ideias em soluções reais.
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaribeiroexe&hide_progress=true)
 ## 🛠️ **Tecnologias que utilizo**  
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
