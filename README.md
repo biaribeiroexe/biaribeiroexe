@@ -23,8 +23,8 @@ Bem-vindo(a) ao meu repositório! Sou a Beatriz, mas pode me chamar de **Bia**, 
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-          
-          
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 
 ---
 
