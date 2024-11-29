@@ -28,7 +28,7 @@ Bem-vindo(a) ao meu repositório! Sou a Beatriz, mas pode me chamar de **Bia**, 
 
 ## 📫 **Como me encontrar**  
   
-📧 [E-mail](mailto:ribeiro.beatriz1888@gmail.com)  
+📧 [E-mail](ribeiro.beatriz1888@gmail.com)  
 
 
 ---
