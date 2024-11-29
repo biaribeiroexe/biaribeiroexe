@@ -3,7 +3,7 @@ Bem-vindo(a) ao meu repositório! Sou a Beatriz, mas pode me chamar de **Bia**, 
 
 ---
 
-## 🚀 **Sobre mim**  d
+## 🚀 **Sobre mim** 
 🎯 **Desenvolvedora Full Stack** focada no desenvolvimento web e análise de dados.  
 📚 Estou sempre aprendendo novas tecnologias para me aprimorar.  
 💡 Acredito no poder da tecnologia para transformar ideias em soluções reais.
