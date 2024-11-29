@@ -10,7 +10,7 @@ Bem-vindo(a) ao meu repositório! Sou a Beatriz, mas pode me chamar de **Bia**, 
 
 ---
 ## 🛠️ **Tecnologias que utilizo**  
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 10px;" align="center">
   <img align="center"  height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
