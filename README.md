@@ -1,4 +1,4 @@
-# Beatriz Ribeiro 🦝
+# Beatriz Ribeiro
 Bem-vindo(a) ao meu repositório! Sou a Beatriz, mas pode me chamar de **Bia**, uma desenvolvedora apaixonada por tecnologia, sempre em busca de soluções inovadoras e criativas.
 
 ---
